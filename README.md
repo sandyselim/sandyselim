@@ -30,7 +30,7 @@ I am a passionate computer science student focused on building robust applicatio
 ---
 
 ### 📊 My GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+[Sandy Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyselim&show_icons=true&theme=radical)
 
 ---
 
