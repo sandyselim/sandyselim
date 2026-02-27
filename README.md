@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hi there! 👋 I'm Sandy Selim
 
-<!--
-**sandyselim/sandyselim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate computer science student focused on building robust applications with **C#**, creating modern web interfaces with **HTML/CSS**, and analyzing data to solve complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* 🎓 Currently studying **Computer Science** at **New Mansoura University**.
+* 💻 Working primarily with **C# (.NET)**, **HTML5**, and **CSS3**.
+* 📊 Data enthusiast looking to blend software development with AI and analytics.
+* 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandyselim-cs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selimsandy9@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C#, HTML5, CSS3, SQL |
+| **Frameworks** | .NET |
+| **Tools** | Git, GitHub, Visual Studio, VS Code |
+
+---
+
+### 📜 Certifications
+* 🤖 **IBM** - Artificial Intelligence Fundamentals
+* 📊 **Cisco** - Data Analysis
+* 🔒 **Cisco** - Cybersecurity
+
+---
+
+### 📊 My GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 💡 Currently Learning
+* [ ] Advanced CSS and JavaScript for better Front-end experiences
+* [ ] Data Analytics workflows using Python/SQL
+* [ ] Practical application of AI Fundamentals
+* [ ] Defensive Cybersecurity strategies
