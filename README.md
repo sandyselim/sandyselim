@@ -24,8 +24,8 @@ I am a passionate computer science student focused on building robust applicatio
 
 ### 📜 Certifications
 * 🤖 **IBM** - Artificial Intelligence Fundamentals
-* 📊 **Cisco** - Data Analysis
-* 🔒 **Cisco** - Cybersecurity
+* 📊 **Cisco** - Introduction to Data Science
+* 🔒 **Cisco** - Introduction to Cybersecurity
 * 🔐 **Mahara tech** - The Essintials of Digital Forensics: From Basic to Practice 
   
 
