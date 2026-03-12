@@ -26,7 +26,7 @@ I am a passionate computer science student focused on building robust applicatio
 * 🤖 **IBM** - Artificial Intelligence Fundamentals
 * 📊 **Cisco** - Data Analysis
 * 🔒 **Cisco** - Cybersecurity
-* **Mahara tech** - The Essintials of Digital Forensics: From Basic to Practice 
+* 🔐 **Mahara tech** - The Essintials of Digital Forensics: From Basic to Practice 
   
 
 ---
