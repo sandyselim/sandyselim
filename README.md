@@ -2,7 +2,7 @@
 
 ### Cybersecurity Student | Security Enthusiast | Python Developer
 
-I'm a cybersecurity student passionate about understanding how systems, networks, and applications work — and how they can be secured.
+I'm a cybersecurity student passionate about understanding how systems, networks, and applications work and how they can be secured.
 
 I enjoy turning what I learn into practical projects, particularly in **Python, cybersecurity, networking, and security automation**.
 
