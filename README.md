@@ -1,6 +1,6 @@
 # Hi, I'm Sandy Selim 👋
 
-### Cybersecurity Student | Python Developer | Security Enthusiast
+### Cybersecurity Student | Security Enthusiast | Python Developer
 
 I'm a cybersecurity student passionate about understanding how systems, networks, and applications work — and how they can be secured.
 
